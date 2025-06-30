@@ -32,11 +32,11 @@
 				<configuration>
 				<cloudHubDeployment>
 				<username>Charan__I72</username>
+				<password>Kcy@2003</password>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>WorldTimeZone-Services</applicationName>
-				<password>Kcy@2003</password>
 				<muleVersion>4.9.0</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
